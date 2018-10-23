@@ -1,2 +1,3 @@
 # 331_API-Project
- Initial COSC 331 project for making API calls
+This repo is for the first project in my computer networking class. 
+It will be used as a test to call a bitly API as a URL shortener. 
