@@ -11,7 +11,7 @@ In order to run this program, you must upload an MP3 file of 100 MB or less. In 
 At this point, simply type in " cd watson-app" then " node voicetotext.js" and you will see the transcript of your mp3 speech. 
 ## Built With
 
-Obviously change these to fit your needs - You must list your API here with links!!!!
+
 
 * [Nodejs](https://nodejs.org/en/docs/) - Backend
 * [Watson SDK](https://console.bluemix.net/catalog/services/speech_to_text) -API
