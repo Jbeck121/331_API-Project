@@ -1,0 +1,32 @@
+{
+ "results": [
+  {
+   "alternatives": [
+    {
+     "confidence": 0.986,
+     "transcript": "I am happy to John with you today "
+    }
+   ],
+   "final": true
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.743,
+     "transcript": "and rob Lowe go down in history "
+    }
+   ],
+   "final": true
+  },
+  {
+   "alternatives": [
+    {
+     "confidence": 0.947,
+     "transcript": "as the greatest demonstration for freedom in the history of all "
+    }
+   ],
+   "final": true
+  }
+ ],
+ "result_index": 0
+}
